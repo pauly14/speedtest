@@ -64,19 +64,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.ru" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.ru" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.ru">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.61182517" vertical-offset="0" max-vertical-offset="389">
+            <state line="14" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="33" selection-start="734" selection-end="734" vertical-scroll-proportion="-6.5384617" vertical-offset="153" max-vertical-offset="1530">
+            <state line="21" column="19" selection-start="862" selection-end="862" vertical-scroll-proportion="0.56198347" vertical-offset="153" max-vertical-offset="1581">
               <folding />
             </state>
           </provider>
@@ -93,8 +93,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/config.ru" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -470,12 +470,12 @@
       <created>1394663754971</created>
       <updated>1394663754971</updated>
       <workItem from="1394663759812" duration="2221000" />
-      <workItem from="1394666925241" duration="2157000" />
+      <workItem from="1394666925241" duration="2380000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4378000" />
+    <option name="totallyTimeSpent" value="4601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="0" width="1346" height="728" extended-state="0" />
@@ -624,19 +624,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="33" selection-start="734" selection-end="734" vertical-scroll-proportion="-6.5384617" vertical-offset="153" max-vertical-offset="1530">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.ru">
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.61182517" vertical-offset="0" max-vertical-offset="389">
+        <state line="14" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="19" selection-start="862" selection-end="862" vertical-scroll-proportion="0.56198347" vertical-offset="153" max-vertical-offset="1581">
           <folding />
         </state>
       </provider>

@@ -67,7 +67,7 @@
       <file leaf-file-name="config.ru" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.ru">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="18" selection-start="96" selection-end="96" vertical-scroll-proportion="0.17480719" vertical-offset="0" max-vertical-offset="389">
+            <state line="14" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.61182517" vertical-offset="0" max-vertical-offset="389">
               <folding />
             </state>
           </provider>
@@ -76,7 +76,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="33" selection-start="738" selection-end="738" vertical-scroll-proportion="-10.461538" vertical-offset="51" max-vertical-offset="1530">
+            <state line="19" column="33" selection-start="734" selection-end="734" vertical-scroll-proportion="-6.5384617" vertical-offset="153" max-vertical-offset="1530">
               <folding />
             </state>
           </provider>
@@ -175,6 +175,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="speedtest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="speedtest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -452,12 +470,12 @@
       <created>1394663754971</created>
       <updated>1394663754971</updated>
       <workItem from="1394663759812" duration="2221000" />
-      <workItem from="1394666925241" duration="1581000" />
+      <workItem from="1394666925241" duration="2157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3802000" />
+    <option name="totallyTimeSpent" value="4378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="0" width="1346" height="728" extended-state="0" />
@@ -608,7 +626,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="33" selection-start="738" selection-end="738" vertical-scroll-proportion="-10.461538" vertical-offset="51" max-vertical-offset="1530">
+        <state line="19" column="33" selection-start="734" selection-end="734" vertical-scroll-proportion="-6.5384617" vertical-offset="153" max-vertical-offset="1530">
           <folding />
         </state>
       </provider>
@@ -618,7 +636,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="18" selection-start="96" selection-end="96" vertical-scroll-proportion="0.17480719" vertical-offset="0" max-vertical-offset="389">
+        <state line="14" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.61182517" vertical-offset="0" max-vertical-offset="389">
           <folding />
         </state>
       </provider>
